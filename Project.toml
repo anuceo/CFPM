@@ -1,0 +1,13 @@
+name = "CFPM"
+uuid = "e9d5d418-85a6-43d9-bc59-2968109b87fd"
+authors = ["anuceo"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

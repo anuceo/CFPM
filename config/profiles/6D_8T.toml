@@ -1,0 +1,7 @@
+# CFPM profile placeholder: 6D_8T
+# The profile NAME is ESTABLISHED. Its semantics are UNRESOLVED.
+# This is NOT a functioning configuration. No parameter values are defined.
+# Fields required before implementation: config/profiles/README.md
+
+name = "6D_8T"
+status = "UNRESOLVED"

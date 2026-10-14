@@ -1,0 +1,7 @@
+# CFPM profile placeholder: 12D_16T
+# The profile NAME is ESTABLISHED. Its semantics are UNRESOLVED.
+# This is NOT a functioning configuration. No parameter values are defined.
+# Fields required before implementation: config/profiles/README.md
+
+name = "12D_16T"
+status = "UNRESOLVED"
